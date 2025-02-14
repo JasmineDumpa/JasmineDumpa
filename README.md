@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jasmine dumpa</h1>
 <h3 align="center">ECE undergraduate</h3>
 
-<h3 align="left"> I'm currently learning python
-  2025 goal: be proficient in programming language Connect with me: dumpajasmine666@gmail.com </h3>
+<h3 align="left"> I'm currently learning python </h3>
+  <h3>2025 goal: be proficient in programming language </h3> <h3> Connect with me: dumpajasmine666@gmail.com </h3>
 <p align="left">
 </p>
 
